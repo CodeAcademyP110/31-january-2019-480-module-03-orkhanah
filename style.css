@@ -1,0 +1,317 @@
+
+#mainPage{
+   background: rgb(149, 60, 70);
+   margin-left:  416px;
+}
+
+.topnav input[type=text]{
+   width: 320px;
+   height: 35px;
+   float: right;
+   margin-right: 680px;
+   margin-top: -70px; 
+}
+
+.upload{
+    height: 40px;
+    float: right;
+    text-align: center;
+    margin-right: 550px;
+    margin-top: -69px;
+}
+
+.material-icons{
+    float: right;
+    margin-right: 500px;
+    margin-top: -62px;
+}
+
+.name{
+    float: right;
+    margin-right: 360px;
+    margin-top: -100px;
+    
+}
+
+.nav1{
+    width: 800px;
+    margin-right:20px; 
+}
+
+.videos{
+    width: 460px;
+    height: 310px;
+    font-family: fantasy;
+    background :rgb(244, 228, 206);
+    color: rgb(149, 60, 70);
+    
+}
+
+.h1{
+    padding-top: 250px;
+    padding-left: 10px;
+    
+}
+
+.h3{
+    padding-left: 10px;
+}
+
+.header{
+    margin-top: 30px;
+}
+
+.column{
+    width: 220px;
+    height: 150px;
+    background: rgb(244, 228, 206);
+    float: right;
+    margin-right: 565px;
+    margin-top: -309px;
+    color: rgb(149, 60, 70);
+}
+
+.column1{
+    width: 220px;
+    height: 150px;
+    background: rgb(244, 228, 206);
+    float: right;
+    margin-right:565px;
+    margin-top: -150px;
+    color: rgb(149, 60, 70);
+
+}
+
+.column2{
+    width: 224px;
+    height: 150px;
+    background: rgb(244, 228, 206);
+    margin-right: 12px;
+    margin-top: 10px;
+    color: rgb(149, 60, 70);
+}
+
+.column3{
+    width: 224px;
+    height: 150px;
+    background: rgb(244, 228, 206);
+    margin-right: 12px;
+    margin-top: 10px;
+    color: rgb(149, 60, 70);
+    
+}
+
+.column4{
+    width: 215px;
+    height: 145px;
+    border: 2px solid rgb(244, 228, 206);
+    margin-top: 10px;
+    color: rgb(244, 228, 206)
+}
+
+.hr{
+    width:350px; 
+    height:3px;
+    background: rgb(244, 228, 206);
+    float: right;
+    margin-top: -470px;
+    margin-right: 200px;
+
+}
+
+.advertisement1{
+ width: 75px;
+ height: 50px; 
+ background: rgb(244, 228, 206);  
+ /* float:right;
+ margin-right: 475px;
+ margin-top: -451px; */
+}
+
+.advertisement2{
+width: 75px;;
+height: 50px;
+background: rgb(244, 228, 206);
+margin-top: 20px;
+/* float:right;
+margin-right: 475px;
+margin-top: -380px; */
+}
+
+.advertisement3{
+width: 75px;
+height: 50px;
+background: rgb(244, 228, 206);
+margin-top: 20px;
+/* float:right;
+margin-right: 475px;
+margin-top: -310px; */
+}
+
+.advertisement4{
+width: 75px;
+height: 50px;
+background: rgb(244, 228, 206);
+margin-top: 20px;
+/* float:right;
+margin-right: 475px;
+margin-top: -240px; */
+}
+
+.advertisement5{
+width: 75px;
+height: 50px;
+background: rgb(244, 228, 206);
+margin-top: 20px;
+/* float:right;
+margin-right: 475px;
+margin-top: -170px; */
+}
+
+.advertisement6{
+width: 75px;
+height: 55px;
+background: rgb(244, 228, 206);
+margin-top: 20px;
+/* float:right;
+margin-right: 475px;
+margin-top: -100px; */
+}
+
+.advertisement{
+   float: right;
+   margin-right: 190px;
+   margin-top: -450px
+}
+
+.hr1{
+    width: 350px;
+    height: 1px;
+    background: rgb(244, 228, 206);
+    float: right;
+    margin-right: 200px;
+    margin-top: -5px;
+}
+
+.ch1{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: -450px;
+margin-right: 380px;
+}
+
+.ch2{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-left: 180px;
+margin-top: -120px
+
+}
+
+.ch{
+    float: right;
+}
+
+.google{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+}
+
+.microsoft{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.weather{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.imedia{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.khan{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.dribble{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+}
+
+.behance{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.gurus{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.creativeye{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;
+}
+
+.yahoo{
+width: 170px;
+height: 120px;
+background:rgb(244, 228, 206);
+color:rgb(149, 60, 70);
+margin-top: 20px;    
+}
+
+.hr2{
+    width: 350px;
+    height: 1px;
+    background: rgb(244, 228, 206);
+    float: right; 
+    margin-right: 200px;
+    margin-top: 240px;
+}
+
+.hr3{
+    width: 1060px;
+    height: 1px;
+    background: rgb(244, 228, 206);
+    margin-right: 280px;
+    margin-top: 85px;
+}
+
+.footer1{
+    color: rgb(244, 228, 206);
+    margin-top: 30px
+}
